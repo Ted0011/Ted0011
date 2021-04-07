@@ -2,7 +2,7 @@
 - 👀 I’m interested in EVERYTHING.
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on PI.
-- 📫 How to reach me link ==> https://facebook.com/dopher.suman
+- 📫 How to reach me link ==>> <https://facebook.com/dopher.suman>
 
 <!---
 Ted0011/Ted0011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
