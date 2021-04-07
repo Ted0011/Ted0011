@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on PI.
 - 📫 How to reach me link ==>> <https://facebook.com/dopher.suman>
-- 🚪 Youtube ==>> <not< >> <interested>interface<pull><list> now the sentence
+- 🚪 Youtube ==>> <not< >> <<interested>>>interface<pull><list> now the sentence
 <!---
 COMMENT
 COMMENT
