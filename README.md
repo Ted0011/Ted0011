@@ -6,21 +6,8 @@
 </p>
 <img src="https://github.com/Nquenan/Nquenan/assets/112055340/32a6edd8-9667-41d7-a458-f2b75693046a"  width="350px" height="210px" align="right"/> 
 
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=853DF7&random=false&width=435&lines=My+name+is+Natalia+Quenan;Welcome+to+my+Github)
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=900&size=30&pause=1000&color=4CF74D&background=FFFFFE00&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=200&lines=Cloud+Architech;Computer+System+Engineer;Network+Administrator;Infrastructure+Engineer;I+am+all+this.)
 
- I'm from Misiones, Argentina, and I've just completed my training at Silicon Misiones, where I gained skills in Full-Stack Web Development. In 2022, I finished the Front-End Developer course at Alura Latam. <br/>
- I've always been passionate about programming; in 2021, I began this learning journey, dedicating the time and effort it deserves.
-
-- Cat lover 😻
-- Proactivity and Teamwork 👨‍👦‍👦
-- Problem Solving 🧐
-
-
-"Investing in knowledge always yields the best benefits."
-
-<div>
-  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"/>
-</div>
 - 👋 Hi, I’m @Ted0011 
 - 👀 I’m interested in EVERYTHING.
 - 📫 How to reach me link ==>> <https://www.linkedin.com/in/delusional>
