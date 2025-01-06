@@ -2,7 +2,7 @@
   <h3 align="center">This Is About ME.</h3>
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://github.com/Nquenan/Nquenan/assets/112055340/32a6edd8-9667-41d7-a458-f2b75693046a" width="350px" height="210px" align="right"/> 
 </p>
 
