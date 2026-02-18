@@ -1,6 +1,6 @@
 <h3 align="left">This Is About ME.</h3>
 
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=1100&size=30&pause=1000&color=4CF74D&background=FFFFFE00&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=350&lines=Cloud+Architech;Computer+System+Engineer;Network+Administrator;Infrastructure+Engineer;DevOps+Engineer;Certified+Kubernetes+Administrator;I+am+all+this.)
+ ![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=1100&size=30&pause=1000&color=4CF74D&background=FFFFFE00&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=350&lines=Cloud+Architech;Computer+System+Engineer;Network+Administrator;Infrastructure+Engineer;DevOps+Engineer;Certified+Kubernetes+Administrator;I+am+all+this.](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45F70C&center=true&multiline=true&width=435&height=200&lines=DevOps+Engineer;Cloud+Architect;Computer+System+Engineer;Infrastructure+Engineer;Soon%2C+Certified+Kubernetes+Administrator))
 
  ![Komarev Views](https://komarev.com/ghpvc/?username=Ted0011&lable=Profile%20Views&color=0e75b6&style=flat&align="left")
 
