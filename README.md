@@ -1,12 +1,11 @@
 <h3 align="left">This Is About ME.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45F70C&center=true&multiline=true&width=435&height=325&lines=DevOps+Engineer;Cloud+Architect;Computer+System+Engineer;Infrastructure+Engineer;On%2C+Certified+Kubernetes+Administrator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45F70C&center=true&multiline=true&width=475&height=325&lines=DevOps+Engineer;Cloud+Architect;Computer+System+Engineer;Infrastructure+Engineer;On%2C+Certified+Kubernetes+Administrator)](https://git.io/typing-svg)
 
  ![Komarev Views](https://komarev.com/ghpvc/?username=Ted0011&lable=Profile%20Views&color=0e75b6&style=flat&align="left")
 
 - 👋 Hi, I’m @Ted0011 
 - 👀 I’m interested in EVERYTHING.
 - 📫 How to reach me link ==>> <https://www.linkedin.com/in/delusional>
-- 🎟 Future Newtork Engineer
 
 <a href="https://ko-fi.com/Y8Y41APR1N" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
